@@ -1,3 +1,5 @@
+This is a fork of the original which has been taken down to promote a new commercial service.
+
 # heroku-buildpack-apt
 
 Add support for apt-based dependencies during both compile and runtime.
